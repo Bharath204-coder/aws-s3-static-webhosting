@@ -107,6 +107,10 @@ Expected output:
 ```diff
 index.html
 ```
+📸 Demo:
+<img width="1352" height="549" alt="Screenshot 2026-01-03 161110" src="https://github.com/user-attachments/assets/f2315240-8f3b-4ae8-bdbc-1d4014cae404" />
+
+
 
 ## Step 6: Access the Website
 Copy the Bucket Website Endpoint from the Static Website Hosting section.
